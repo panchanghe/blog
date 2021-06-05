@@ -14,6 +14,20 @@
 - [Java锁的膨胀过程以及一致性哈希对锁膨胀的影响](https://mp.weixin.qq.com/s/5ePeSJ0XPfaYZHvHVCtu3w)
 - [你写的单例真的安全吗？](https://mp.weixin.qq.com/s/J2f1uIu4ZzAYArP-99f52w)
 
+# JDK源码分析
+- [ArrayList源码分析](https://mp.weixin.qq.com/s/uQG6gbbDOMjC69XqmlebUg)
+- [LinkedList源码分析](https://mp.weixin.qq.com/s/ikCzfRpyzgvvsbox8tgVwg)
+- [JDK7-HashMap源码分析](https://mp.weixin.qq.com/s/i0mPDgmpKY-lcjDTTF1TdA)
+- [ThreadLocal源码分析](https://mp.weixin.qq.com/s/JIaBXeIiW03cvJzFGNOyYg)
+- [AQS源码分析](https://mp.weixin.qq.com/s/1nHBaUCAc0l-U8Zyql39bA)
+- [ReentrantLock源码分析](https://mp.weixin.qq.com/s/iKv6fV0qEKwg59hNAGIGPQ)
+- [CountDownLatch源码分析](https://mp.weixin.qq.com/s/utR5aIH6yL5Cp2thxCRaZw)
+- [CyclicBarrier源码分析](https://mp.weixin.qq.com/s/a2GRjq4KXjxRVxilCqpTTg)
+- [Semaphore源码分析](https://mp.weixin.qq.com/s/pbDwKZ6MaiWxgP9ihXrjWA)
+- [AtomicLong源码分析](https://mp.weixin.qq.com/s/zi2P8jftuGwCXvB58gZrEA)
+- [LongAdder源码分析](https://mp.weixin.qq.com/s/yIuBtneqLSnXEpR7OMUoyA)
+- [FutureTask源码分析](https://mp.weixin.qq.com/s/6GVS08Ph-CLiczN3WF75jw)
+
 # 设计模式
 - [设计模式六大原则](https://mp.weixin.qq.com/s/Y3HyAL75Cp5Mlhzbfpkj1w)
 #### 创建型模式
