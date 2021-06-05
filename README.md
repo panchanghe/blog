@@ -35,6 +35,17 @@
 - [ChannelOutboundBuffer源码分析](https://mp.weixin.qq.com/s/t3KpDTZoMbr2cLPsA01D9w)
 - [无锁队列MpscQueue源码分析](https://mp.weixin.qq.com/s/3WDr4v95LcI5xLptCd6Fcg)
 
+# MySQL
+- [MySQL架构与历史](https://mp.weixin.qq.com/s/ydZEA06W3Pap4mrXjdoJJw)
+- [Schema与数据类型优化](https://mp.weixin.qq.com/s/DNW7dnZW3LE9hHtnS8Brtg)
+- [创建高性能的索引](https://mp.weixin.qq.com/s/CxPZKRJ_3OtlN1kGJPmcYQ)
+- [查询性能优化](https://mp.weixin.qq.com/s/QFqrFgizrpmceJIrrTmiqA)
+- [MySQL服务器配置优化](https://mp.weixin.qq.com/s/3a9iEsDxI9XEDfYqI6TDNg)
+- [为什么索引可以提升查询速度？](https://mp.weixin.qq.com/s/vJm6KVWbFjDmdhO6fGf0OQ)
+- [事务和锁](https://mp.weixin.qq.com/s/2fMWt4EoJdlchXmCYTJ7hQ)
+- [MySQL的锁机制](https://mp.weixin.qq.com/s/KRJYBmNepto3x1u2qs9AvA)
+- [悲观锁与乐观锁方案](https://mp.weixin.qq.com/s/FqMAOLyrimFKI3fsntzV2g)
+
 # Redis
 - [Linux下Redis的安装和启动](https://mp.weixin.qq.com/s/3OsYcDvpa9vhcmpOWKkImQ)
 - [Redis数据持久化机制及数据恢复](https://mp.weixin.qq.com/s/O6Np2FjivkaTBr_LJi016w)
