@@ -28,6 +28,22 @@
 - [LongAdder源码分析](https://mp.weixin.qq.com/s/yIuBtneqLSnXEpR7OMUoyA)
 - [FutureTask源码分析](https://mp.weixin.qq.com/s/6GVS08Ph-CLiczN3WF75jw)
 
+# Netty
+- [Netty简单入门](https://mp.weixin.qq.com/s/8JhLjeEHZfU6S1fw0qKQNw)
+- [Netty服务端启动全流程源码分析](https://mp.weixin.qq.com/s/JGLQG8dtdrZltlC0c9bR-A)
+- [RecvByteBufAllocator源码分析](https://mp.weixin.qq.com/s/Jhye06ENMmpghjn90Leddw)
+- [ChannelOutboundBuffer源码分析](https://mp.weixin.qq.com/s/t3KpDTZoMbr2cLPsA01D9w)
+- [无锁队列MpscQueue源码分析](https://mp.weixin.qq.com/s/3WDr4v95LcI5xLptCd6Fcg)
+
+# Redis
+- [Linux下Redis的安装和启动](https://mp.weixin.qq.com/s/3OsYcDvpa9vhcmpOWKkImQ)
+- [Redis数据持久化机制及数据恢复](https://mp.weixin.qq.com/s/O6Np2FjivkaTBr_LJi016w)
+- [Redis哨兵模式](https://mp.weixin.qq.com/s/oYhFk3banAxCEEdjGb-BKg)
+- [Redis主从复制服务搭建及原理](https://mp.weixin.qq.com/s/5kIBCoaxmwMGfR_0heb2lw)
+- [Redis Cluster高可用集群搭建](https://mp.weixin.qq.com/s/RayIxLzM13n8o-3-2doxHQ)
+- [手写布隆过滤器防止缓存穿透](https://mp.weixin.qq.com/s/9rMpDeRsnXLM4ugVcScovw)
+- [Redis分布式锁防止缓存击穿](https://mp.weixin.qq.com/s/TTDgAlkPd9VXSV7WV_j5Yw)
+
 # Dubbo
 - [泛化调用强制返回Map问题，实现自定义返回值序列化逻辑](https://mp.weixin.qq.com/s/vxUonnfw-hKJw8-ac25Rfw)
 
@@ -91,10 +107,3 @@
 - [命令模式-文章发布背后的秘密](https://mp.weixin.qq.com/s/oTdtudG4RtsC5DF2c5p4UQ)
 
 - [责任链模式-谁来处理请求？](https://mp.weixin.qq.com/s/Nn-as3ypA2RnvavSVCNoUg)
-
-# Netty
-- [Netty简单入门](https://mp.weixin.qq.com/s/8JhLjeEHZfU6S1fw0qKQNw)
-- [Netty服务端启动全流程源码分析](https://mp.weixin.qq.com/s/JGLQG8dtdrZltlC0c9bR-A)
-- [RecvByteBufAllocator源码分析](https://mp.weixin.qq.com/s/Jhye06ENMmpghjn90Leddw)
-- [ChannelOutboundBuffer源码分析](https://mp.weixin.qq.com/s/t3KpDTZoMbr2cLPsA01D9w)
-- [无锁队列MpscQueue源码分析](https://mp.weixin.qq.com/s/3WDr4v95LcI5xLptCd6Fcg)
