@@ -28,6 +28,13 @@
 - [LongAdder源码分析](https://mp.weixin.qq.com/s/yIuBtneqLSnXEpR7OMUoyA)
 - [FutureTask源码分析](https://mp.weixin.qq.com/s/6GVS08Ph-CLiczN3WF75jw)
 
+# 手写系列
+- [手写Http服务器](https://mp.weixin.qq.com/s/uS5Ew3ycJl_5KAKLSU4qUA)
+- [摊牌了，我要手写一个AOP](https://mp.weixin.qq.com/s/tRT80QyHrbXbU2bPxgXGSA)
+- [摊牌了，我要手写一个RPC](https://mp.weixin.qq.com/s/vVGWl1A6KqyRCKdbxeCJNw)
+- [手写MyBatis](https://mp.weixin.qq.com/s/nRVQsIiVPu4t0G9CJW7v-g)
+- [手写MyBatis分页插件](https://mp.weixin.qq.com/s/F-ZeGcwDZ7A11mWFjlB7tA)
+
 # 设计模式
 - [设计模式六大原则](https://mp.weixin.qq.com/s/Y3HyAL75Cp5Mlhzbfpkj1w)
 #### 创建型模式
