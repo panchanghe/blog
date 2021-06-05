@@ -3,6 +3,22 @@
 #### 介绍
 记录我写过的文章，之前的文章在考虑陆续迁移到公众号。
 
+<p align="center">
+  <a href="#wechat_img"><img src="https://img.shields.io/badge/关注公众号-程序员小潘-blue.svg" alt="公众号"></a>
+  <a href="https://javap.blog.csdn.net/"><img src="https://img.shields.io/badge/关注-我的CSDN-red.svg" alt="知乎"></a>
+<a href="https://www.zhihu.com/people/pan-chang-he-45-24"><img src="https://img.shields.io/badge/关注-我的知乎-blue.svg" alt="知乎"></a>
+  <a href="https://juejin.cn/user/3438928104004462"><img src="https://img.shields.io/badge/关注-我的掘金-lightgrey.svg" alt="掘金"></a>
+  <a href="https://space.bilibili.com/29219189"><img src="https://img.shields.io/badge/关注-我的bilibili-critical.svg" alt="关注我的bilibili"></a>
+</p>
+
+
+<p id='wechat_img'>
+
+![image](https://images.gitee.com/uploads/images/2021/0605/175437_7f32b67d_5528418.jpeg "qrcode_for_gh_be60abb2b459_258.jpg")
+
+</p>
+欢迎关注作者微信公众号！！！
+
 # Java
 - [面试官：你说说ThreadLocal为什么会导致内存泄漏？](https://mp.weixin.qq.com/s/-3vqf46YrAxD2ByotVAaNw)
 - [RandomAccess接口有什么用？](https://mp.weixin.qq.com/s/QL68o8Rw61_CJJNmXfR8EA)
