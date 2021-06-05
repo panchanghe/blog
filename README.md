@@ -28,6 +28,15 @@
 - [LongAdder源码分析](https://mp.weixin.qq.com/s/yIuBtneqLSnXEpR7OMUoyA)
 - [FutureTask源码分析](https://mp.weixin.qq.com/s/6GVS08Ph-CLiczN3WF75jw)
 
+# JVM
+- [一篇文章彻底搞懂GC](https://mp.weixin.qq.com/s/bcHSMwTT9_EH-AcLcuB1xg)
+- [Java内存区域与内存溢出]()
+- [Java垃圾收集与内存分配]()
+- [大白话理解可达性分析算法]()
+- [CMS与三色标记算法](https://mp.weixin.qq.com/s/FMq2T2OCD-YWHi0TmMYh7A)
+- [GC分代年龄为什么是15？](https://mp.weixin.qq.com/s/eFVOwIax4aKKXwZpXaAxsw)
+- [逃逸分析之栈上分配内存](https://mp.weixin.qq.com/s/uPCwpJCAGD-iDl_76tpO0w)
+
 # Netty
 - [Netty简单入门](https://mp.weixin.qq.com/s/8JhLjeEHZfU6S1fw0qKQNw)
 - [Netty服务端启动全流程源码分析](https://mp.weixin.qq.com/s/JGLQG8dtdrZltlC0c9bR-A)
@@ -60,6 +69,19 @@
 
 # Solr
 - [Solr7服务搭建及简单使用](https://mp.weixin.qq.com/s/Gd2yYn9Ol5D-5dxTI3_q-w)
+
+# Spring
+- [SpringMVC是如何做到根据参数名动态绑定参数的？](https://mp.weixin.qq.com/s/-QOUJwIqGgrO0faYwqLnmA)
+- [@Autowired注入的request是否线程安全](https://mp.weixin.qq.com/s/JfPUBjGqKCRb0Zix9-T1SQ)
+- [Spring七种事务传播行为](https://mp.weixin.qq.com/s/F1SXceJvuqHkGERbtEq0zw)
+
+# SpringCloud
+- [SpringCloud相关服务搭建]()
+
+# RabbitMQ
+- [RabbitMQ快速入门](https://mp.weixin.qq.com/s/N80XH9bhEsc5-0w5Z9NAow)
+- [RabbitMQ常见问题解决方案](https://mp.weixin.qq.com/s/of1_pIo3LOxCm2M60GZz4g)
+- [RabbitMQ的六种工作模式](https://mp.weixin.qq.com/s/uOHsWbArj0P_gFPp63bfMw)
 
 # 手写系列
 - [手写Http服务器](https://mp.weixin.qq.com/s/uS5Ew3ycJl_5KAKLSU4qUA)
