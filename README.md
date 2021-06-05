@@ -28,6 +28,12 @@
 - [LongAdder源码分析](https://mp.weixin.qq.com/s/yIuBtneqLSnXEpR7OMUoyA)
 - [FutureTask源码分析](https://mp.weixin.qq.com/s/6GVS08Ph-CLiczN3WF75jw)
 
+# Dubbo
+- [泛化调用强制返回Map问题，实现自定义返回值序列化逻辑](https://mp.weixin.qq.com/s/vxUonnfw-hKJw8-ac25Rfw)
+
+# Solr
+- [Solr7服务搭建及简单使用](https://mp.weixin.qq.com/s/Gd2yYn9Ol5D-5dxTI3_q-w)
+
 # 手写系列
 - [手写Http服务器](https://mp.weixin.qq.com/s/uS5Ew3ycJl_5KAKLSU4qUA)
 - [摊牌了，我要手写一个AOP](https://mp.weixin.qq.com/s/tRT80QyHrbXbU2bPxgXGSA)
@@ -87,4 +93,8 @@
 - [责任链模式-谁来处理请求？](https://mp.weixin.qq.com/s/Nn-as3ypA2RnvavSVCNoUg)
 
 # Netty
-- [Netty简单入门]()
+- [Netty简单入门](https://mp.weixin.qq.com/s/8JhLjeEHZfU6S1fw0qKQNw)
+- [Netty服务端启动全流程源码分析](https://mp.weixin.qq.com/s/JGLQG8dtdrZltlC0c9bR-A)
+- [RecvByteBufAllocator源码分析](https://mp.weixin.qq.com/s/Jhye06ENMmpghjn90Leddw)
+- [ChannelOutboundBuffer源码分析](https://mp.weixin.qq.com/s/t3KpDTZoMbr2cLPsA01D9w)
+- [无锁队列MpscQueue源码分析](https://mp.weixin.qq.com/s/3WDr4v95LcI5xLptCd6Fcg)
