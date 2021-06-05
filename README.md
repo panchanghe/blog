@@ -30,9 +30,9 @@
 
 # JVM
 - [一篇文章彻底搞懂GC](https://mp.weixin.qq.com/s/bcHSMwTT9_EH-AcLcuB1xg)
-- [Java内存区域与内存溢出]()
-- [Java垃圾收集与内存分配]()
-- [大白话理解可达性分析算法]()
+- [Java内存区域与内存溢出](https://mp.weixin.qq.com/s/eIwlEBlCinMDuKQ9d1vRsw)
+- [Java垃圾收集与内存分配](https://mp.weixin.qq.com/s/gmx1SJlpdxnqkb_MQr3_UQ)
+- [大白话理解可达性分析算法](https://mp.weixin.qq.com/s/1li-ONzUOWR-jUcnSk4DMQ)
 - [CMS与三色标记算法](https://mp.weixin.qq.com/s/FMq2T2OCD-YWHi0TmMYh7A)
 - [GC分代年龄为什么是15？](https://mp.weixin.qq.com/s/eFVOwIax4aKKXwZpXaAxsw)
 - [逃逸分析之栈上分配内存](https://mp.weixin.qq.com/s/uPCwpJCAGD-iDl_76tpO0w)
