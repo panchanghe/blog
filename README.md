@@ -4,15 +4,15 @@
 记录我写过的文章，之前的文章在考虑陆续迁移到公众号。
 
 # Java
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [面试官：你说说ThreadLocal为什么会导致内存泄漏？](https://mp.weixin.qq.com/s/-3vqf46YrAxD2ByotVAaNw)
+- [RandomAccess接口有什么用？](https://mp.weixin.qq.com/s/QL68o8Rw61_CJJNmXfR8EA)
+- [Java自动装箱和拆箱](https://mp.weixin.qq.com/s/g_cau6yqEjC7jHD9Vq_qlQ)
+- [Cache Line对数据读写性能的影响](https://mp.weixin.qq.com/s/Br10lYNOKsUp3IGkivh2JQ)
+- [Java对象的内存是在哪里分配的？](https://mp.weixin.qq.com/s/3G_-gT6UAdeaBJMTLpOi2A)
+- [Java是解释执行还是编译执行的？](https://mp.weixin.qq.com/s/LdJ4QTN4jZiqEcgzomM0iQ)
+- [DCL单例需要加volatile关键字吗？](https://mp.weixin.qq.com/s/sQe6vS9DcEmT9jn1Kl_YTw)
+- [Java锁的膨胀过程以及一致性哈希对锁膨胀的影响](https://mp.weixin.qq.com/s/5ePeSJ0XPfaYZHvHVCtu3w)
+- [你写的单例真的安全吗？](https://mp.weixin.qq.com/s/J2f1uIu4ZzAYArP-99f52w)
 
 # 设计模式
 - [设计模式六大原则](https://mp.weixin.qq.com/s/Y3HyAL75Cp5Mlhzbfpkj1w)
