@@ -64,6 +64,7 @@
 - [FastThreadLocal源码分析](https://mp.weixin.qq.com/s/s_b9gyypQ1m5dvLJhw7HSA)
 - [TCP粘包/拆包解决方案](https://mp.weixin.qq.com/s/avbmLOmfc9fSgA7jPkQ48Q)
 - [Netty对象重用：Recycler源码分析](https://mp.weixin.qq.com/s/O8uwhX2fP7uj_H7rTy0uoQ)
+- [Netty是如何检测资源泄漏的？](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486267&idx=1&sn=ce7edd8e41687e58563811b49c408267&chksm=97636d98a014e48e16117733c05d9d8369623887d8f1fb894e838b7fc6ca722c26ddb32381e7&scene=21&token=186229206&lang=zh_CN#wechat_redirect)
 
 # MySQL
 - [MySQL架构与历史](https://mp.weixin.qq.com/s/ydZEA06W3Pap4mrXjdoJJw)
