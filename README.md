@@ -65,6 +65,12 @@
 - [TCP粘包/拆包解决方案](https://mp.weixin.qq.com/s/avbmLOmfc9fSgA7jPkQ48Q)
 - [Netty对象重用：Recycler源码分析](https://mp.weixin.qq.com/s/O8uwhX2fP7uj_H7rTy0uoQ)
 - [Netty是如何检测资源泄漏的？](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486270&idx=1&sn=faf44ffd86ddf961add2821709ab208a&chksm=97636d9da014e48bf13fc19e473e5fd2b2bd88077e8f405ae607161859cbc338854782a45ced&token=1024048817&lang=zh_CN#rd)
+- [ServerBootstrapAcceptor：接收连接的核心](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486347&idx=1&sn=f4ae1811f5e0f1e370103b25c575a87e&chksm=97636d28a014e43e7a64355df838ca55546eed48296a4c143f94431bd19c9f0346c4ac80dec4&token=1024048817&lang=zh_CN#rd)
+- [ByteBuf：Netty的数据容器](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486347&idx=2&sn=d8d7881d425a85b6e15a9bd8ebe78ec3&chksm=97636d28a014e43e4c6fb2171abd2bc67046dfd221eb8da421fc55d25b9ef9e62429f4bc41e6&token=1024048817&lang=zh_CN#rd)
+- [ChannelPipeline：Netty的事件传播管道](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486347&idx=3&sn=f8a5d97664dd3326fb7f9c35a387f417&chksm=97636d28a014e43e73c6a12efac7a9d6bf17541f35f2a1b7337a732040b42d55383da932b891&token=1024048817&lang=zh_CN#rd)
+- [EventLoop和EventLoopGroup](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486347&idx=4&sn=7bf2918f57580321410c0160141c56fa&chksm=97636d28a014e43ee4111b74c10e6f24ebb85ba3c5c239372bee4366686033fe37103dd62d3e&token=1024048817&lang=zh_CN#rd)
+- [Netty实现WebSocket聊天室](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486347&idx=5&sn=8bbcd9f33c8b728b6c4b3834cc5e9795&chksm=97636d28a014e43ee00808263fd1e074475eb053d0804cc42cc8ff864aeb266ad8a5db7a0cf5&token=1024048817&lang=zh_CN#rd)
+- [Netty实现HTTP服务器](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486347&idx=6&sn=66cb27a605056bb91038e7ff3abd8313&chksm=97636d28a014e43effd1e487d662de04184522ad0c91a1f84d3a9b1b311d2350e0484d735101&token=1024048817&lang=zh_CN#rd)
 
 # MySQL
 - [MySQL架构与历史](https://mp.weixin.qq.com/s/ydZEA06W3Pap4mrXjdoJJw)
