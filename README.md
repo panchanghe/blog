@@ -105,6 +105,9 @@
 - [@Autowired注入的request是否线程安全](https://mp.weixin.qq.com/s/JfPUBjGqKCRb0Zix9-T1SQ)
 - [Spring七种事务传播行为](https://mp.weixin.qq.com/s/F1SXceJvuqHkGERbtEq0zw)
 
+# MyBatis
+- [MyBatis查询全流程源码分析](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486599&idx=1&sn=8dab5f7bc20a4f930375fabff264dc1f&chksm=97636a24a014e332e4ab48a6648c62b80ca6a087728bceb087601630e9b2e5f47ea3701f447d&token=207380750&lang=zh_CN#rd)
+
 # SpringCloud
 - [SpringCloud相关服务搭建]()
 
