@@ -32,6 +32,8 @@
 - [Java 网络IO的演变](https://mp.weixin.qq.com/s/LUrtHNEuxnlPt4vBRrdI3g)
 - [从指令集角度分析自动拆/装箱](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486537&idx=1&sn=68c678d2e6bdae3dd3f5a0a1040d39a2&chksm=97636aeaa014e3fccca3eb4dafc59e7f8d19adc6344499832fe92ba9800102527e6e7ec7e71b&token=207380750&lang=zh_CN#rd)
 - [Java中为什么[this]可以调用当前实例？](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486546&idx=1&sn=0038f199a0427fe10f5fe9c96cf4cce1&chksm=97636af1a014e3e7d97b23c9b1f4906b77912aef4e886270c89c984e3154a451feb08fdccaf7&scene=21&token=1462166471&lang=zh_CN#wechat_redirect)
+- [如何追踪Java对象的访问？](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486651&idx=1&sn=24230287bae16885eb091e7eb47ce25d&chksm=97636a18a014e30e7e0bf238f61d71622e8bbee577de83a535297aecaefca0452accdb62c4a1&scene=21&token=396980767&lang=zh_CN#wechat_redirect)
+- [如何优化Java异常的效率？](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486673&idx=1&sn=b6fd6719866eba4035f7256dd4c5f3a0&chksm=97636a72a014e3646cc76b70edbc1eaf4a99001b72409b51bcae7eeb12b3b1376e2ea6a8d224&scene=21&token=396980767&lang=zh_CN#wechat_redirect)
 
 # JDK源码分析
 - [ArrayList源码分析](https://mp.weixin.qq.com/s/uQG6gbbDOMjC69XqmlebUg)
@@ -46,6 +48,7 @@
 - [AtomicLong源码分析](https://mp.weixin.qq.com/s/zi2P8jftuGwCXvB58gZrEA)
 - [LongAdder源码分析](https://mp.weixin.qq.com/s/yIuBtneqLSnXEpR7OMUoyA)
 - [FutureTask源码分析](https://mp.weixin.qq.com/s/6GVS08Ph-CLiczN3WF75jw)
+- [CopyOnWriteArrayList源码分析](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486686&idx=1&sn=44f16e89033f5d34cbf7a28a3301be72&chksm=97636a7da014e36b55d2f4a85614145aae919ba13a4d520dce40c280ec2d5bc476cfcb3b6f28&scene=21&token=396980767&lang=zh_CN#wechat_redirect)
 
 # JVM
 - [一篇文章彻底搞懂GC](https://mp.weixin.qq.com/s/bcHSMwTT9_EH-AcLcuB1xg)
@@ -111,6 +114,7 @@
 - [ParamNameResolver源码分析](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486611&idx=1&sn=06304549c8062bc835f0a3220e076115&chksm=97636a30a014e326c01d4eec990d6c196a8fa71daf501acd7e96d2d5ae00acdd10ba92f6e84a&scene=21&token=1462166471&lang=zh_CN#wechat_redirect)
 - [DefaultParameterHandler源码分析](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486625&idx=1&sn=12a19ce5bde450de339b320494e65bca&chksm=97636a02a014e314263b3b6a075eb07e2cadc45798e224b9abcd94398a1c8acf25cc00164a2c&scene=21&token=1462166471&lang=zh_CN#wechat_redirect)
 - [数据库连接池PooledDataSource源码分析](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486639&idx=1&sn=de9ed5912998e367f03662d5ae7a547d&chksm=97636a0ca014e31ab071b7e05a8d8b862cc9ee6c6c0c47c1842aac55d79cea30d6d36d2fd321&scene=21&token=1462166471&lang=zh_CN#wechat_redirect)
+- [MyBatis一级缓存源码分析](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486663&idx=1&sn=a33e6bee6598092934878f3225ab6cb0&chksm=97636a64a014e3726e7d62c5d0c7f0e5c7d1f82acadd8a1f0057a06e7fd146dddac3a94a16f8&scene=21&token=396980767&lang=zh_CN#wechat_redirect)
 
 # SpringCloud
 - [SpringCloud相关服务搭建]()
