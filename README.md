@@ -34,6 +34,7 @@
 - [Java中为什么[this]可以调用当前实例？](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486546&idx=1&sn=0038f199a0427fe10f5fe9c96cf4cce1&chksm=97636af1a014e3e7d97b23c9b1f4906b77912aef4e886270c89c984e3154a451feb08fdccaf7&scene=21&token=1462166471&lang=zh_CN#wechat_redirect)
 - [如何追踪Java对象的访问？](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486651&idx=1&sn=24230287bae16885eb091e7eb47ce25d&chksm=97636a18a014e30e7e0bf238f61d71622e8bbee577de83a535297aecaefca0452accdb62c4a1&scene=21&token=396980767&lang=zh_CN#wechat_redirect)
 - [如何优化Java异常的效率？](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486673&idx=1&sn=b6fd6719866eba4035f7256dd4c5f3a0&chksm=97636a72a014e3646cc76b70edbc1eaf4a99001b72409b51bcae7eeb12b3b1376e2ea6a8d224&scene=21&token=396980767&lang=zh_CN#wechat_redirect)
+- [JavaAgent查看动态生成类的源码](https://mp.weixin.qq.com/s/acJBXkzGEvZWTAQzkIwEwQ)
 
 # JDK源码分析
 - [ArrayList源码分析](https://mp.weixin.qq.com/s/uQG6gbbDOMjC69XqmlebUg)
@@ -78,6 +79,25 @@
 - [Netty实现HTTP服务器](https://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486347&idx=6&sn=66cb27a605056bb91038e7ff3abd8313&chksm=97636d28a014e43effd1e487d662de04184522ad0c91a1f84d3a9b1b311d2350e0484d735101&token=1024048817&lang=zh_CN#rd)
 - [基于Netty实现RPC框架](https://mp.weixin.qq.com/s/-8BQQ8dXS2T9PnKdnHsrlQ)
 
+# RocketMQ
+- [Namesrv源码分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486742&idx=1&sn=468c7b72af2e8e18bd9da0ac67203d33&chksm=97636bb5a014e2a36b7da722702d8670bf1ef114f3bb1f96d07ddced8c2a97d0347f3d5a174a&scene=21#wechat_redirect)
+- [Producer消息发送流程分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486819&idx=1&sn=69d1cfb48c2e04e8f2176525606c36b0&chksm=97636bc0a014e2d676f40c3cb3bf4b8c841c763534d8e4c6984ce500e17a0543a51d4c054ee8&scene=21#wechat_redirect)
+- [Broker消息高性能存储分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486763&idx=1&sn=4801c58830acf7ebc67bde37d27fefeb&chksm=97636b88a014e29ee1bef58fe8d354fabecb9fc38fddb752678dd783c6f0540c981b63651098&scene=21#wechat_redirect)
+- [ConsumeQueue构建过程分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486819&idx=2&sn=d25ec420a1dc3900826553bf1b10263e&chksm=97636bc0a014e2d68beff19cb409c3590245e9b058d9e4cbcd02a4e2643b5474dd05ebd6d076&scene=21#wechat_redirect)
+- [Index构建过程分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486819&idx=3&sn=5be13de6b2eac52dc01a32c71170b1df&chksm=97636bc0a014e2d6f45f452fb29afdabaed8accfe024beaf1e5afd91682817b9ed6ed16bc5a4&scene=21#wechat_redirect)
+- [Consumer消息拉取和消费流程分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486864&idx=1&sn=195b5f5738acdb02ba006b6dd578e069&chksm=97636b33a014e225c347e14fc6c4fdae1eb2742257305a74396252d3f40f762e5f4f24ea9aac&scene=21#wechat_redirect)
+- [Broker消息投递源码分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486893&idx=1&sn=68a11a19fc9d0775ec7942c1819d690f&chksm=97636b0ea014e2188755b031090fc9761343fb77b687f3d40ef16ab01cbb1d3c9b43a8d864ad&scene=21#wechat_redirect)
+- [定时消息实现原理分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486913&idx=1&sn=a5f3879971d7b39e30c73178a34e3b60&chksm=97636b62a014e27455b60c5537a44dc4a824e14f9fb939697ba8d87af011e469adc85d63e4a8&scene=21#wechat_redirect)
+- [事务消息实现原理分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486940&idx=1&sn=acb98fe5c576aaf496603f9cc6a35e00&chksm=97636b7fa014e26901402b8161330b506b4b9c180d400b79089d0d3ed42397dd3a643eceff2a&scene=21#wechat_redirect)
+- [顺序消息实现原理分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486958&idx=1&sn=b00967ed279009b5cc414164e4fff60f&chksm=97636b4da014e25b9f87102ad938d2ead98a9f6f3564f1ca208d0d1bc36358755751dc04b8a5&scene=21#wechat_redirect)
+- [三种刷盘策略分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486979&idx=1&sn=48f1cedec9202634218817ad69eb1668&chksm=976368a0a014e1b66900b9a1c19e9799c7a4017512e72d56e2ad7660f38702c48d50d35b9dad&scene=21#wechat_redirect)
+
+# Dubbo
+- [Dubbo的SPI机制分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247487111&idx=1&sn=77ec4ce095b43125a7ec8e69ac038568&chksm=97636824a014e132b297429dc8361c1063d805af2b9940a27da5c38a06aafae6e78cc1cb21ae#rd)
+- [DubboBootstrap启动流程](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247487180&idx=1&sn=87d5d26c77fb3ae7add559a3726db612&chksm=9763686fa014e1794794b767dadfd0159da5666b82aeb249c355d2c177a749f5c81a81428c64#rd)
+- [Dubbo服务暴露流程](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247487180&idx=2&sn=d9d385924fde68a276771e7ad9fe4f62&chksm=9763686fa014e17923b6d97fca268e84ea233b0b08407ed36b1a607572c36409c4eb7522ff28#rd)
+- [泛化调用强制返回Map问题，实现自定义返回值序列化逻辑](https://mp.weixin.qq.com/s/vxUonnfw-hKJw8-ac25Rfw)
+
 # MySQL
 - [MySQL架构与历史](https://mp.weixin.qq.com/s/ydZEA06W3Pap4mrXjdoJJw)
 - [Schema与数据类型优化](https://mp.weixin.qq.com/s/DNW7dnZW3LE9hHtnS8Brtg)
@@ -98,8 +118,6 @@
 - [手写布隆过滤器防止缓存穿透](https://mp.weixin.qq.com/s/9rMpDeRsnXLM4ugVcScovw)
 - [Redis分布式锁防止缓存击穿](https://mp.weixin.qq.com/s/TTDgAlkPd9VXSV7WV_j5Yw)
 
-# Dubbo
-- [泛化调用强制返回Map问题，实现自定义返回值序列化逻辑](https://mp.weixin.qq.com/s/vxUonnfw-hKJw8-ac25Rfw)
 
 # Solr
 - [Solr7服务搭建及简单使用](https://mp.weixin.qq.com/s/Gd2yYn9Ol5D-5dxTI3_q-w)
@@ -119,18 +137,6 @@
 # SpringCloud
 - [SpringCloud相关服务搭建]()
 
-# RocketMQ
-- [Namesrv源码分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486742&idx=1&sn=468c7b72af2e8e18bd9da0ac67203d33&chksm=97636bb5a014e2a36b7da722702d8670bf1ef114f3bb1f96d07ddced8c2a97d0347f3d5a174a&scene=21#wechat_redirect)
-- [Producer消息发送流程分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486819&idx=1&sn=69d1cfb48c2e04e8f2176525606c36b0&chksm=97636bc0a014e2d676f40c3cb3bf4b8c841c763534d8e4c6984ce500e17a0543a51d4c054ee8&scene=21#wechat_redirect)
-- [Broker消息高性能存储分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486763&idx=1&sn=4801c58830acf7ebc67bde37d27fefeb&chksm=97636b88a014e29ee1bef58fe8d354fabecb9fc38fddb752678dd783c6f0540c981b63651098&scene=21#wechat_redirect)
-- [ConsumeQueue构建过程分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486819&idx=2&sn=d25ec420a1dc3900826553bf1b10263e&chksm=97636bc0a014e2d68beff19cb409c3590245e9b058d9e4cbcd02a4e2643b5474dd05ebd6d076&scene=21#wechat_redirect)
-- [Index构建过程分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486819&idx=3&sn=5be13de6b2eac52dc01a32c71170b1df&chksm=97636bc0a014e2d6f45f452fb29afdabaed8accfe024beaf1e5afd91682817b9ed6ed16bc5a4&scene=21#wechat_redirect)
-- [Consumer消息拉取和消费流程分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486864&idx=1&sn=195b5f5738acdb02ba006b6dd578e069&chksm=97636b33a014e225c347e14fc6c4fdae1eb2742257305a74396252d3f40f762e5f4f24ea9aac&scene=21#wechat_redirect)
-- [Broker消息投递源码分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486893&idx=1&sn=68a11a19fc9d0775ec7942c1819d690f&chksm=97636b0ea014e2188755b031090fc9761343fb77b687f3d40ef16ab01cbb1d3c9b43a8d864ad&scene=21#wechat_redirect)
-- [定时消息实现原理分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486913&idx=1&sn=a5f3879971d7b39e30c73178a34e3b60&chksm=97636b62a014e27455b60c5537a44dc4a824e14f9fb939697ba8d87af011e469adc85d63e4a8&scene=21#wechat_redirect)
-- [事务消息实现原理分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486940&idx=1&sn=acb98fe5c576aaf496603f9cc6a35e00&chksm=97636b7fa014e26901402b8161330b506b4b9c180d400b79089d0d3ed42397dd3a643eceff2a&scene=21#wechat_redirect)
-- [顺序消息实现原理分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486958&idx=1&sn=b00967ed279009b5cc414164e4fff60f&chksm=97636b4da014e25b9f87102ad938d2ead98a9f6f3564f1ca208d0d1bc36358755751dc04b8a5&scene=21#wechat_redirect)
-- [三种刷盘策略分析](http://mp.weixin.qq.com/s?__biz=MzIxMDU5NjgxMg==&mid=2247486979&idx=1&sn=48f1cedec9202634218817ad69eb1668&chksm=976368a0a014e1b66900b9a1c19e9799c7a4017512e72d56e2ad7660f38702c48d50d35b9dad&scene=21#wechat_redirect)
 
 # RabbitMQ
 - [RabbitMQ快速入门](https://mp.weixin.qq.com/s/N80XH9bhEsc5-0w5Z9NAow)
